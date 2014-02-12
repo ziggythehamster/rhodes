@@ -267,5 +267,5 @@ platform/osx/bin/rholib/*
 platform/osx/bin/rubylib/*
 platform/osx/bin/sqlite3/*
 platform/osx/bin/syncengine/*
-platform/osx/bin/RhoSimulator/generated_files/*
-platform/osx/bin/RhoSimulator/tmp/*
+platform/osx/bin/RhoSimulator
+
